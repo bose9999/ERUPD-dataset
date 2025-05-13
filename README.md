@@ -26,7 +26,7 @@ This repository contains the **training data portion (~65,000 sentence pairs)** 
 _Test data has been intentionally omitted for evaluation purposes._
 
 ### Files:
-- `parallel_dataset.json` – A JSON file containing aligned sentence pairs.
+- `ERUPD_dataset.json` – A JSON file containing aligned sentence pairs.
 
 #### 📄 JSON Format Example:
 ```json
