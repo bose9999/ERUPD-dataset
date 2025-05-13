@@ -42,7 +42,7 @@ _Test data has been intentionally omitted for evaluation purposes._
 ]
 ```
 
-##📜 Citation
+📜 Citation
 If you use this dataset in your work, please cite:
 
 <pre lang="markdown"> ```bibtex @misc{furqan2024erupd, title={ERUPD - English to Roman Urdu Parallel Dataset}, author={Mohammed Furqan and Raahid Bin Khaja and Rayyan Habeeb}, year={2024}, eprint={2412.17562}, archivePrefix={arXiv}, primaryClass={cs.CL} } ``` </pre>
