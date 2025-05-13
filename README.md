@@ -40,3 +40,16 @@ _Test data has been intentionally omitted for evaluation purposes._
     "Roman Urdu": "Woh TV dekh rahe hain."
   }
 ]
+```
+
+##📜 Citation
+If you use this dataset in your work, please cite:
+
+@misc{furqan2024erupd,
+  title={ERUPD - English to Roman Urdu Parallel Dataset},
+  author={Mohammed Furqan and Raahid Bin Khaja and Rayyan Habeeb},
+  year={2024},
+  eprint={2412.17562},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL}
+}
