@@ -1,4 +1,5 @@
 # ERUPD: English to Roman Urdu Parallel Dataset
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 **Authors:** Mohammed Furqan, Raahid Bin Khaja, Rayyan Habeeb  
 **Source Paper:** [arXiv:2412.17562v1](https://arxiv.org/abs/2412.17562)
@@ -19,8 +20,6 @@ This dataset addresses the resource gap for Roman Urdu by combining:
 - Sentiment Analysis
 - Code-Switching Detection
 - Low-Resource NLP Research
-
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## 📁 Repository Structure
 
