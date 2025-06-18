@@ -20,6 +20,8 @@ This dataset addresses the resource gap for Roman Urdu by combining:
 - Code-Switching Detection
 - Low-Resource NLP Research
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 ## 📁 Repository Structure
 
 This repository contains the **training data portion (~65,000 sentence pairs)** of the full ERUPD corpus.  
@@ -46,5 +48,3 @@ _Test data has been intentionally omitted for evaluation purposes._
 If you use this dataset in your work, please cite:
 
 <pre lang="markdown"> ```bibtex @misc{furqan2024erupd, title={ERUPD - English to Roman Urdu Parallel Dataset}, author={Mohammed Furqan and Raahid Bin Khaja and Rayyan Habeeb}, year={2024}, eprint={2412.17562}, archivePrefix={arXiv}, primaryClass={cs.CL} } ``` </pre>
-
-License: This dataset is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
