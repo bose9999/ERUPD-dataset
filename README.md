@@ -47,3 +47,6 @@ _Test data has been intentionally omitted for evaluation purposes._
 If you use this dataset in your work, please cite:
 
 <pre lang="markdown"> ```bibtex @misc{furqan2024erupd, title={ERUPD - English to Roman Urdu Parallel Dataset}, author={Mohammed Furqan and Raahid Bin Khaja and Rayyan Habeeb}, year={2024}, eprint={2412.17562}, archivePrefix={arXiv}, primaryClass={cs.CL} } ``` </pre>
+
+### Translation Models Folder :
+The translation_models folder contains downloaded Kaggle notebooks used for evaluating the **ERUPD** dataset. These notebooks include implementation code for transformer-based neural machine translation models such as *T5-Small* and *mBART*. The models were trained and tested on the dataset to assess translation quality using metrics like *BLEU* and *METEOR*.
