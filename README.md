@@ -40,6 +40,12 @@ _Test data has been intentionally omitted for evaluation purposes._
     "English": "They are watching TV.",
     "Roman Urdu": "Woh TV dekh rahe hain."
   }
+
+   {
+    "English": "They are playing GTA.",
+    "Roman Urdu": "Woh GTA khel rahe hai."
+  }
+
 ]
 ```
 
